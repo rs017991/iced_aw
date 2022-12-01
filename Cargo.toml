@@ -98,6 +98,9 @@ members = [
 #rev = "8221794"
 version = "0.6.0"
 
+[workspace.dependencies.iced_lazy]
+version = "0.2"
+
 [workspace.dependencies.iced_aw]
 path = "./"
 default-features = false
