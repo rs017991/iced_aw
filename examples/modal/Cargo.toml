@@ -13,3 +13,4 @@ iced_aw = { workspace = true, features = [
     "modal",
 ] }
 iced.workspace = true
+iced_lazy.workspace = true
